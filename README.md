@@ -5,9 +5,9 @@ Input:
  4. Text
  5. Video
 
-Output:
- A. Classification (discrete labels)
- B. Regression (continuous values)
- C. Object Detection
- D. Segmentation (pixel-level classification)
- E. Time-Series Forecasting
+Output:\n
+ A. Classification (discrete labels)\n
+ B. Regression (continuous values)\n
+ C. Object Detection\n
+ D. Segmentation (pixel-level classification)\n
+ E. Time-Series Forecasting\n
